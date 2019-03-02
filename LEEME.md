@@ -1,3 +1,8 @@
 LUCUMA
 ------
-Este es un proyecto para divertirme s
+Este es un proyecto para divertirme 
+
+
+autor 
+-----
+    . delfin
