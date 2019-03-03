@@ -16,3 +16,7 @@ creditos
 	.rosa maria palacios
 	.serata
 >>>>>>> v1.2
+
+*************************
+Este archivo fue editado por :
+		KAISER NEGRO
